@@ -1,0 +1,2 @@
+invalid type: string "■ Spark Interview Playbook (Detailed Version)\nContext: Banking & Retail Data Pipelines with DBT & Databricks\n■ How Spark Fits into the Banking & Retail Data Pipeline\nData Sources (Core Banking, Retail POS, CRM, Cards) → Bronze (Raw Landing via Ingestion) → Silver\ns and AI platform built on Apache Spark that combines data\ntadata ADD COLUMN bool_value INTEGER;
+", U
